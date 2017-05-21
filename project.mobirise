@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pricing.html",
+    "currentPage": "about.html",
     "name": "ANM",
     "theme": {
       "name": "mobirise3",
@@ -797,7 +797,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20160420-1400x1400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20131106-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
