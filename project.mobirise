@@ -1326,7 +1326,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000.jpg",
-                "caption": "<a href=\"http://instagram.com/willzayas\" target=\"_blank\">@willzayas</a>&nbsp;with the Philly pride<br>",
+                "caption": "<p><a href=\"http://instagram.com/willzayas\" target=\"_blank\">Will</a><a href=\"http://instagram.com/willzayas\" target=\"_blank\"></a>&nbsp;with the Philly pride<br></p>",
                 "active": false
               },
               {
@@ -1336,7 +1336,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000.jpg",
-                "caption": "<a href=\"https://www.instagram.com/_lil.bill_/\">@_lil.bill_</a><br>",
+                "caption": "<p><a href=\"https://www.instagram.com/_lil.bill_/\" target=\"_blank\">Billie</a>&nbsp;lookin fresh<br></p>",
                 "active": false
               },
               {
@@ -1366,7 +1366,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315-800x526.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315.jpg",
-                "caption": "<a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">@prophetkeef</a>&nbsp;spittin knowledge<br>",
+                "caption": "<p><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">Keith</a><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\"></a>&nbsp;spittin knowledge<br></p>",
                 "active": false
               },
               {
@@ -1386,7 +1386,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
-                "caption": "Free flying, <a href=\"http://instagram.com/zion_tuma\" target=\"_blank\">@zion_tuma</a><br>",
+                "caption": "<p>Free flying&nbsp;<a href=\"http://instagram.com/zion_tuma\" target=\"_blank\">Zion</a><a href=\"http://instagram.com/zion_tuma\" target=\"_blank\"></a><br></p>",
                 "active": false
               },
               {
@@ -1396,7 +1396,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x3139-800x1255.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x3139.jpg",
-                "caption": "<a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">@swayzi.p</a>&nbsp;with the fresh looks<br>",
+                "caption": "<p><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">Chris</a><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\"></a>&nbsp;with the fresh looks<br></p>",
                 "active": true
               }
             ],
