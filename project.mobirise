@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "about.html",
+    "currentPage": "people.html",
     "name": "ANM",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 77,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -32,7 +32,7 @@
       "settings": {
         "main": true,
         "title": "Home // A.Nelson Media",
-        "meta_descr": "",
+        "meta_descr": "A.Nelson Media, the home of quality, affordable, local photography.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -339,7 +339,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "<br>",
                 "active": false
               },
               {
@@ -349,7 +349,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-23-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-23-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": true
               },
               {
@@ -359,7 +359,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-222914-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-222914-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
@@ -369,7 +369,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               }
             ],
@@ -379,7 +379,7 @@
             "bgColor": "#2e2e2e",
             "filterBgColor": false,
             "fullWidth": true,
-            "showBullets": false
+            "showBullets": true
           },
           "_anchor": "gallery1-1m",
           "articleLayout": false,
@@ -1007,12 +1007,32 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "8px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "2",
             "paddingBottom": "2",
             "timeout": "3",
             "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/img-42-2000x1333.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x1191.jpg",
@@ -1070,7 +1090,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/img-15-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1290,6 +1310,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "12px"
+            }
+          },
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1301,7 +1326,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"http://instagram.com/willzayas\" target=\"_blank\">@willzayas</a>&nbsp;with the Philly pride<br>",
                 "active": false
               },
               {
@@ -1311,7 +1336,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.instagram.com/_lil.bill_/\">@_lil.bill_</a><br>",
                 "active": false
               },
               {
@@ -1321,7 +1346,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-1-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-1-2000x3000.jpg",
-                "caption": "Type caption here",
+                "caption": "Flex",
                 "active": false
               },
               {
@@ -1331,7 +1356,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045-800x1218.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045.jpg",
-                "caption": "Type caption here",
+                "caption": "Acrobat",
                 "active": false
               },
               {
@@ -1341,7 +1366,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315-800x526.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">@prophetkeef</a>&nbsp;spittin knowledge<br>",
                 "active": false
               },
               {
@@ -1351,7 +1376,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334.jpg",
-                "caption": "Type caption here",
+                "caption": "The Cypher",
                 "active": false
               },
               {
@@ -1361,7 +1386,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Free flying, <a href=\"http://instagram.com/zion_tuma\" target=\"_blank\">@zion_tuma</a><br>",
                 "active": false
               },
               {
@@ -1371,12 +1396,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x3139-800x1255.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x3139.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">@swayzi.p</a>&nbsp;with the fresh looks<br>",
                 "active": true
               }
             ],
             "spacing": 1,
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -1426,7 +1451,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "<p><a href=\"http://instagram.com/killadelfkid\" target=\"_blank\">Jeff</a><a href=\"http://instagram.com/killadelfkid\" target=\"_blank\"></a>&nbsp;with a clean trash can switch heel</p>",
                 "active": false
               },
               {
@@ -1436,7 +1461,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hikick-final-pano-2000x1050-800x420.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hikick-final-pano-2000x1050.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.instagram.com/elijah_skatelife/\" target=\"_blank\">Elijah</a> with the kickflip from a 5ft vert&nbsp;",
                 "active": false
               },
               {
@@ -1446,7 +1471,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bmxpanorama-blended-fused-2000x1589-800x635.jpg",
                 "image": "@PROJECT_PATH@/assets/images/bmxpanorama-blended-fused-2000x1589.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.instagram.com/claesonmyfeet/\" target=\"_blank\">Daryl</a>&nbsp;catching vert air",
                 "active": false
               },
               {
@@ -1456,7 +1481,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-12-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-12-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.instagram.com/expensive.milk/\" target=\"_blank\">Donato</a>&nbsp;with the clean flip over the can",
                 "active": false
               },
               {
@@ -1466,7 +1491,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1105-img-1107-fused-2000x3074-800x1229.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-1105-img-1107-fused-2000x3074.jpg",
-                "caption": "Type caption here",
+                "caption": "Griffin with the bar spin",
                 "active": false
               },
               {
@@ -1476,7 +1501,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1191-800x476.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-1-2000x1191.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"http://instagram.com/holdenitdown\" target=\"_blank\">Holden W</a> with the FS crook",
                 "active": false
               },
               {
@@ -1486,7 +1511,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-13-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-13-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://instagram.com/jasuki/\" target=\"_blank\">Paul</a>&nbsp;with the flare",
                 "active": false
               },
               {
@@ -1496,7 +1521,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-15-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-15-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.instagram.com/alexseccia/\" target=\"_blank\">Alex</a>&nbsp;with the double tailwhip",
                 "active": false
               },
               {
@@ -1506,7 +1531,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kr3w-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kr3w-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "Just a snippet from <a href=\"https://www.instagram.com/andrewryanwalker/\" target=\"_blank\">Adam's</a> run",
                 "active": false
               },
               {
@@ -1516,12 +1541,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-41-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-41-2000x1333.jpg",
-                "caption": "Type caption here",
+                "caption": "<a href=\"https://www.instagram.com/alexseccia/\" target=\"_blank\">Alex</a>&nbsp;with the double tailwhip",
                 "active": true
               }
             ],
             "spacing": "1",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": false,

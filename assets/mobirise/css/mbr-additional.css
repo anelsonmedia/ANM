@@ -733,6 +733,10 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #ffffff;
 }
+#slider3-1k P {
+  text-align: center;
+  font-size: 8px;
+}
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -810,6 +814,9 @@ h6,
 }
 #header3-1f H3 {
   color: #ffffff;
+}
+#gallery3-j .mbr-gallery-item > div > span {
+  font-size: 12px;
 }
 #header3-1g .mbr-section-title,
 #header3-1g .mbr-section-subtitle {
