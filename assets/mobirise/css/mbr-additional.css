@@ -808,6 +808,20 @@ h6,
 #msg-box8-i p {
   color: #fff;
 }
+#header3-2d .mbr-section-title,
+#header3-2d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2d H3 {
+  color: #ffffff;
+}
+#header3-1g .mbr-section-title,
+#header3-1g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1g H3 {
+  color: #ffffff;
+}
 #header3-1f .mbr-section-title,
 #header3-1f .mbr-section-subtitle {
   text-align: center;
@@ -817,13 +831,6 @@ h6,
 }
 #gallery3-j .mbr-gallery-item > div > span {
   font-size: 12px;
-}
-#header3-1g .mbr-section-title,
-#header3-1g .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1g H3 {
-  color: #ffffff;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;

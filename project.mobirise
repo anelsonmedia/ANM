@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "people.html",
+    "currentPage": "places.html",
     "name": "ANM",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 84,
+    "uniqCompNum": 90,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1308,123 +1308,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1f",
+          "_anchor": "header3-2d",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "CAREFREE",
-          "meta": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
-            }
-          },
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000.jpg",
-                "caption": "<p><a href=\"http://instagram.com/willzayas\" target=\"_blank\">Will</a><a href=\"http://instagram.com/willzayas\" target=\"_blank\"></a>&nbsp;with the Philly pride<br></p>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000.jpg",
-                "caption": "<p><a href=\"https://www.instagram.com/_lil.bill_/\" target=\"_blank\">Billie</a>&nbsp;lookin fresh<br></p>",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-1-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-1-2000x3000.jpg",
-                "caption": "Flex",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045-800x1218.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045.jpg",
-                "caption": "Acrobat",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315-800x526.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315.jpg",
-                "caption": "<p><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">Keith</a><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\"></a>&nbsp;spittin knowledge<br></p>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334.jpg",
-                "caption": "The Cypher",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
-                "caption": "<p>Free flying&nbsp;<a href=\"http://instagram.com/zion_tuma\" target=\"_blank\">Zion</a><a href=\"http://instagram.com/zion_tuma\" target=\"_blank\"></a><br></p>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x3139-800x1255.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x3139.jpg",
-                "caption": "<p><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">Chris</a><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\"></a>&nbsp;with the fresh looks<br></p>",
-                "active": true
-              }
-            ],
-            "spacing": 1,
-            "showText": true,
-            "filter": false,
-            "bgColor": "#000000",
-            "filterBgColor": true,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery3-j",
-          "articleLayout": false,
-          "allItem": "All"
+          "title": "VYB",
+          "meta": "A collaboration with <a href=\"https://instagram.com/thedifferentvyb\" target=\"_blank\">June</a>"
         },
         {
           "_styles": {
@@ -1578,6 +1470,137 @@
             "showBullets": true
           },
           "_anchor": "gallery1-1r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "CAREFREE",
+          "meta": ""
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "font-size": "12px"
+            }
+          },
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170405-2000x3000.jpg",
+                "caption": "<p><a href=\"http://instagram.com/willzayas\" target=\"_blank\">Will</a><a href=\"http://instagram.com/willzayas\" target=\"_blank\"></a>&nbsp;with the Philly pride<br></p>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000.jpg",
+                "caption": "<p><a href=\"https://www.instagram.com/_lil.bill_/\" target=\"_blank\">Billie</a>&nbsp;lookin fresh<br></p>",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-1-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-1-2000x3000.jpg",
+                "caption": "Flex",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045-800x1218.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045.jpg",
+                "caption": "Acrobat",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315-800x526.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315.jpg",
+                "caption": "<p><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">Keith</a><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\"></a>&nbsp;spittin knowledge<br></p>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334.jpg",
+                "caption": "The Cypher",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
+                "caption": "<p>Free flying&nbsp;<a href=\"http://instagram.com/zion_tuma\" target=\"_blank\">Zion</a><a href=\"http://instagram.com/zion_tuma\" target=\"_blank\"></a><br></p>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x3139-800x1255.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x3139.jpg",
+                "caption": "<p><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">Chris</a><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\"></a>&nbsp;with the fresh looks<br></p>",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-j",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -1782,8 +1805,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-46-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-46-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1792,8 +1815,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-47-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-47-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1802,8 +1825,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-48-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-48-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1812,8 +1835,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-49-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-49-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1822,8 +1845,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-50-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-50-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1832,8 +1855,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-51-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-51-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1842,8 +1865,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-52-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-52-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1852,8 +1875,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-23-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-23-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-53-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-53-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1862,8 +1885,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20121114-1-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20121114-1-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20121114-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20121114-2-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1872,8 +1895,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-22-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-22-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-54-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-54-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1882,8 +1905,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20160817-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/20160817-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20160817-1-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20160817-1-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1938,8 +1961,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-16-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-16-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-55-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-55-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1948,8 +1971,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-17-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-17-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-56-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-56-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1958,8 +1981,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-18-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-18-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-57-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-57-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1968,8 +1991,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-58-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-58-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1978,8 +2001,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-19-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-19-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-59-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-59-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1988,8 +2011,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-21-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-21-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-60-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-60-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
