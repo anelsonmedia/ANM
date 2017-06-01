@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -1770,7 +1770,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-14",
+          "_anchor": "header3-2j",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1778,7 +1778,7 @@
             "showMeta": true
           },
           "title": "215",
-          "meta": ""
+          "meta": "An Ode to Philadelphia"
         },
         {
           "_inherit": "gallery1",
@@ -1936,7 +1936,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1e",
+          "_anchor": "header3-2i",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -1944,7 +1944,7 @@
             "showMeta": true
           },
           "title": "Smashville",
-          "meta": ""
+          "meta": "Nashville, TN. Home of the Nashville Predators"
         },
         {
           "_inherit": "gallery1",
