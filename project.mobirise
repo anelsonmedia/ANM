@@ -1438,19 +1438,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
-                "caption": "<p><a href=\"http://instagram.com/killadelfkid\" target=\"_blank\">Jeff</a><a href=\"http://instagram.com/killadelfkid\" target=\"_blank\"></a>&nbsp;with a clean trash can switch heel</p>",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1105-img-1107-fused-2000x3074-800x1229.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1105-img-1107-fused-2000x3074.jpg",
+                "caption": "Griffin with the bar spin",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hikick-final-pano-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hikick-final-pano-2000x1050.jpg",
-                "caption": "<a href=\"https://www.instagram.com/elijah_skatelife/\" target=\"_blank\">Elijah</a> with the kickflip from a 5ft vert&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-11-2000x1333.jpg",
+                "caption": "<p><a href=\"http://instagram.com/killadelfkid\" target=\"_blank\">Jeff</a><a href=\"http://instagram.com/killadelfkid\" target=\"_blank\"></a>&nbsp;with a clean trash can switch heel</p>",
                 "active": false
               },
               {
@@ -1471,16 +1471,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-12-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-12-2000x1333.jpg",
                 "caption": "<a href=\"https://www.instagram.com/expensive.milk/\" target=\"_blank\">Donato</a>&nbsp;with the clean flip over the can",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-1105-img-1107-fused-2000x3074-800x1229.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-1105-img-1107-fused-2000x3074.jpg",
-                "caption": "Griffin with the bar spin",
                 "active": false
               },
               {
@@ -1528,20 +1518,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-41-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-41-2000x1333.jpg",
-                "caption": "<a href=\"https://www.instagram.com/alexseccia/\" target=\"_blank\">Alex</a>&nbsp;with the double tailwhip",
+                "thumb": "@PROJECT_PATH@/assets/images/img-45-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-45-2000x1333.jpg",
+                "caption": "<a href=\"https://instagram.com/daileyconcepts\" target=\"_blank\">Steve</a> hittin some air",
                 "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hikick-final-pano-2000x1050-800x420.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hikick-final-pano-2000x1050.jpg",
+                "caption": "<a href=\"https://www.instagram.com/elijah_skatelife/\" target=\"_blank\">Elijah</a> with the kickflip from a 5ft vert&nbsp;",
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-45-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-45-2000x1333.jpg",
-                "caption": "<a href=\"https://instagram.com/daileyconcepts\" target=\"_blank\">Steve</a> hittin some air",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/img-41-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-41-2000x1333.jpg",
+                "caption": "<a href=\"https://www.instagram.com/alexseccia/\" target=\"_blank\">Alex</a>&nbsp;with the double tailwhip",
+                "active": false
               }
             ],
             "spacing": "1",
@@ -1605,16 +1605,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000.jpg",
-                "caption": "<p><a href=\"https://www.instagram.com/_lil.bill_/\" target=\"_blank\">Billie</a>&nbsp;lookin fresh<br></p>",
-                "active": false
-              },
-              {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1625,13 +1615,23 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045-800x1218.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170426-2000x3045.jpg",
-                "caption": "Acrobat",
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170407-2000x3000.jpg",
+                "caption": "<p><a href=\"https://www.instagram.com/_lil.bill_/\" target=\"_blank\">Billie</a>&nbsp;lookin fresh<br></p>",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2000x3139-800x1255.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2000x3139.jpg",
+                "caption": "<p><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">Chris</a><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\"></a>&nbsp;with the fresh looks<br></p>",
                 "active": false
               },
               {
@@ -1642,17 +1642,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315-800x526.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315.jpg",
                 "caption": "<p><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">Keith</a><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\"></a>&nbsp;spittin knowledge<br></p>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334.jpg",
-                "caption": "The Cypher",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
@@ -1669,10 +1659,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2000x3139-800x1255.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-2000x3139.jpg",
-                "caption": "<p><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\">Chris</a><a href=\"http://instagram.com/swayzi.p\" target=\"_blank\"></a>&nbsp;with the fresh looks<br></p>",
-                "active": true
+                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334.jpg",
+                "caption": "The Cypher",
+                "active": false
               }
             ],
             "spacing": 1,
