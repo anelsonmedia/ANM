@@ -1284,7 +1284,7 @@
             "bgColor": "#000000"
           },
           "title": "Caution! Mayhem Ahead",
-          "meta": "A collaborative project with Philly's own Mayhem Da Great<br>",
+          "meta": "A collaborative project with Philly's own <a href=\"https://instagram.com/mayhemdagreat\" target=\"_blank\">Mayhem Da Great</a><br>",
           "_tags": [
             "Theme"
           ],
