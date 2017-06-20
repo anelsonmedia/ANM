@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -806,6 +806,17 @@ h6,
 }
 #msg-box8-i .mbr-section-title,
 #msg-box8-i p {
+  color: #fff;
+}
+#header3-2t .mbr-section-title,
+#header3-2t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2t .mbr-section-title {
+  color: #ffffff;
+}
+#slider2-2v .mbr-section-title,
+#slider2-2v .mbr-section-lead {
   color: #fff;
 }
 #header3-2d .mbr-section-title,
