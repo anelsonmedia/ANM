@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 106,
     "versionPublish": "4.0.6",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/temp-icon-1.png",
     "noImageResize": "true",
     "google-analytics": ""
   },
@@ -113,10 +113,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -125,7 +128,6 @@
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": "",
-              "active": true,
               "color": "#ffffff",
               "newWindow": false
             }
@@ -359,12 +361,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Follow On Facebook!",
-          "text": "Check out our newly launched Facebook page! Use it to keep in touch or for easier updates.",
+          "title": "Engage With Us!",
+          "text": "<p>Art prints are now for sale via Society6, don't forget to check it out below! Don't forget to like us on Facebook and follow on Instagram!</p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/anelsonmedia/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK PAGE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/anelsonmedia/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK PAGE</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.instagram.com/phnxrsng\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INSTAGRAM</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://society6.com/anelsonmedia\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ART PRINTS</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-2x"
         },
@@ -529,18 +531,21 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "image-gallery",
               "family": "MobiriseIcons",
-              "link": " ",
-              "size": 0,
+              "link": "https://mobirise.com",
+              "size": "",
               "newWindow": false,
               "color": "#ffffff",
               "active": true
@@ -765,18 +770,21 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "image-gallery",
               "family": "MobiriseIcons",
-              "link": " ",
-              "size": 0,
+              "link": "https://mobirise.com",
+              "size": "",
               "color": "#ffffff",
               "newWindow": false,
               "active": true
@@ -1027,18 +1035,21 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "image-gallery",
               "family": "MobiriseIcons",
-              "link": " ",
-              "size": 0,
+              "link": "https://mobirise.com",
+              "size": "",
               "newWindow": false,
               "color": "#ffffff",
               "active": true
@@ -1241,18 +1252,21 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "image-gallery",
               "family": "MobiriseIcons",
-              "link": " ",
-              "size": 0,
+              "link": "https://mobirise.com",
+              "size": "",
               "newWindow": false,
               "color": "#ffffff",
               "active": true
@@ -1863,18 +1877,21 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
               "name": "image-gallery",
               "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
+              "link": "https://mobirise.com",
+              "size": "",
               "color": "#ffffff",
               "active": true,
               "newWindow": false
@@ -2322,10 +2339,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2333,8 +2353,10 @@
               "name": "image-gallery",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
+              "size": "",
+              "active": true,
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A.Nelson Media</a>",
@@ -2734,10 +2756,13 @@
           },
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/temp-icon.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
