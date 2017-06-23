@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "people.html",
+    "currentPage": "things.html",
     "name": "ANM",
     "theme": {
       "name": "mobirise3",
@@ -1080,7 +1080,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/stop4mayhem.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1-2000x1333.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -1352,7 +1352,7 @@
         {
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "1",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1825,7 +1825,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315-800x526.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lrm-export-20170424-2000x1315.jpg",
                 "caption": "<p><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\">Keith</a><a href=\"http://instagram.com/prophetkeef\" target=\"_blank\"></a>&nbsp;spittin knowledge<br></p>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -1835,17 +1835,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-10-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-10-2000x1333.jpg",
                 "caption": "<p>Free flying&nbsp;<a href=\"http://instagram.com/zion_tuma\" target=\"_blank\">Zion</a><a href=\"http://instagram.com/zion_tuma\" target=\"_blank\"></a><br></p>",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lrm-export-20170422-2000x1334.jpg",
-                "caption": "The Cypher",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -2040,7 +2030,7 @@
           "_name": "gallery3",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "1",
             "paddingTop": "1",
             "paddingBottom": 1,
@@ -2206,7 +2196,7 @@
           "_name": "gallery3",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "1",
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2468,7 +2458,7 @@
           "_name": "gallery3",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2674,7 +2664,7 @@
           "_name": "gallery3",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": 1,
