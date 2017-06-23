@@ -502,6 +502,19 @@ h6,
 #features4-x P {
   color: #ffffff;
 }
+#msg-box3-2x .mbr-section-title,
+#msg-box3-2x p {
+  color: #000;
+}
+#msg-box3-2x .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-2x .lead P {
+  color: #ffffff;
+}
+#msg-box3-2x .lead {
+  color: #ffffff;
+}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }

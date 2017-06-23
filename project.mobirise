@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "works.html",
+    "currentPage": "index.html",
     "name": "ANM",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 104,
+    "uniqCompNum": 106,
     "versionPublish": "4.0.6",
     "favicon": "",
     "noImageResize": "true",
@@ -325,14 +325,58 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Follow On Facebook!",
+          "text": "Check out our newly launched Facebook page! Use it to keep in touch or for easier updates.",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/anelsonmedia/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK PAGE</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2x"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
-            "spacing": 0,
+            "fullWidth": false,
+            "spacing": "0",
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
